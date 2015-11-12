@@ -3,3 +3,6 @@ extensions:
 	- ApiGen\DI\CharsetConvertorExtension
 	- ApiGen\DI\ParserExtension
 	- Kdyby\Events\DI\EventsExtension
+
+application:
+	scanComposer: no
